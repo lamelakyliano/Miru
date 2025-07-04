@@ -1,11 +1,20 @@
 {
-  "name": "Miru repo",
-  "identifier": "com.kylianocloud.miru",
-  "subtitle": "Kijk anime direct op je iPhone",
-  "developer": "Kyliano La Mela",
-  "version": "1.0",
-  "downloadURL": "https://lamelakyliano.github.io/Miru/miru_ios.ipa",
-  "iconURL": "https://lamelakyliano.github.io/Miru/IMG_0023.jpeg",
-  "localizedDescription": "Een krachtige anime-player voor iOS. Geen reclame. Geen beperkingen. Alleen schuimende verhalen.",
-  "tintColor": "007AFF"
+  "name": "Miru AltStore Repo",
+  "identifier": "com.lamelakyliano.repo",
+  "apps": [
+    {
+      "name": "Miru",
+      "bundleIdentifier": "com.lamelakyliano.miru",
+      "developer": "Kyliano La Mela",
+      "version": "1.0",
+      "subtitle": "Kijk anime direct op je iPhone",
+      "localizedDescription": "Een krachtige anime-player voor iOS. Geen reclame. Geen beperkingen. Alleen schuimende verhalen.",
+      "iconURL": "https://lamelakyliano.github.io/Miru/IMG_0023.jpeg",
+      "tintColor": "007AFF",
+      "size": 52428800,
+      "downloadURL": "https://lamelakyliano.github.io/Miru/miru_ios.ipa",
+      "versionDate": "2025-07-04T00:00:00Z",
+      "versionDescription": "- Eerste schuimende release\n- Stream anime zonder advertenties\n- Niets blijft droog"
+    }
+  ]
 }
