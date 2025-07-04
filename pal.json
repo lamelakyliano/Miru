@@ -1,0 +1,11 @@
+{
+  "name": "Miru repo",
+  "identifier": "com.kylianocloud.miru",
+  "subtitle": "Kijk anime direct op je iPhone",
+  "developer": "Kyliano La Mela",
+  "version": "1.0",
+  "downloadURL": "https://lamelakyliano.github.io/Miru/miru.ipa",
+  "iconURL": "https://lamelakyliano.github.io/Miru/icon.png",
+  "localizedDescription": "Een krachtige anime-player voor iOS. Geen reclame. Geen beperkingen. Alleen schuimende verhalen.",
+  "tintColor": "007AFF"
+}
